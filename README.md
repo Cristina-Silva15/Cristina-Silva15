@@ -1,6 +1,7 @@
 - 👋 Olá, eu sou a Cristina
-- 🌱 Estou cursando Tecnologia da Informação
-- 📫 How to reach me: https://www.linkedin.com/in/cristina-francisca-da-silva-22663a112/
+- 🎓 Estou cursando Bacharelado em Tecnologia da Informação
+- 🌱 Estou aprendendo Html e Css
+- 📫 How to reach me: cristinasilvaa20@gmail.com
 - 😄 Pronouns: Ela/Dela
 
 
