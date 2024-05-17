@@ -1,7 +1,6 @@
 - 👋 Olá, eu sou a Cristina
 - 🎓 Estou cursando Bacharelado em Tecnologia da Informação
 - 🌱 Estou aprendendo Html e Css
-- 📫 How to reach me: cristinasilvaa20@gmail.com
 - 😄 Pronouns: Ela/Dela
 
 
