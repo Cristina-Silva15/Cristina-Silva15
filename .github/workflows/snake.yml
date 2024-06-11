@@ -1,0 +1,36 @@
+name: Generate Snake
+
+on:
+  push:
+    branches:
+      - master  # ou main, dependendo do nome da sua branch principal
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake
+        uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Upload Snake to Repository
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-animation
+          path: dist/github-contribution-grid-snake.svg
+
+      - name: Commit Snake Animation
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Generated snake animation"
+          git push
