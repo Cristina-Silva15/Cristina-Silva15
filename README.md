@@ -14,7 +14,6 @@
 </div>
 
 
-![snake gif](https://github.com/Cristina-Silva15/Cristina-Silva15/blob/output/github-contribution-grid-snake.svg)
 
 
 <!---
