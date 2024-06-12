@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   push:
@@ -14,12 +14,27 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v2
 
-      - name: Generate Snake
+      - name: List files before generation
+        run: ls -la dist/
+
+      - name: Generate Snake Animation
         uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: List files after generation
+        run: ls -la dist/
+
+      - name: Verify SVG file creation
+        run: |
+          if [ ! -f dist/github-contribution-grid-snake.svg ]; then
+            echo "SVG file not found!"
+            exit 1
+          else
+            echo "SVG file found and ready for commit."
+          fi
 
       - name: Commit and Push Snake Animation
         env:
@@ -30,3 +45,5 @@ jobs:
           git add dist/github-contribution-grid-snake.svg
           git commit -m "Generated snake animation"
           git push
+        # Verifique se o token tem permissões adequadas
+        # e se o repositório e diretórios são acessíveis
