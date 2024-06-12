@@ -13,20 +13,21 @@
   </a>
 </div>
 
-##
- 
- ### Habilidades:
+## 
+<h3>Habilidades:</h3>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-</br>
+![Html](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=orange&labelColor=0D1117)&nbsp;
 
 
+## 
 
-## Principais ferramentas:
+<h3>Ferramentas:</h3>
+
 ![visualStudio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-##
+
 
 
 
@@ -34,9 +35,10 @@
 Cristina-Silva15/Cristina-Silva15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!---
 
 ![Animação de cobra ]( https://github.com/Cristina-Silva15/Cristina-Silva15/blob/output/github-contribution-grid-snake.svg)
-
+--->
 
 
 
