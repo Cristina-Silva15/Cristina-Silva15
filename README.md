@@ -27,8 +27,9 @@
 
 ![visualStudio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+##
 
-
+![Animação de cobra]( https://github.com/Cristina-Silva15/Cristina-Silva15/blob/output/dist/github-contribution-grid-snake.svg)
 
 
 <!---
@@ -37,7 +38,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![Animação de cobra ]( https://github.com/Cristina-Silva15/Cristina-Silva15/blob/output/github-contribution-grid-snake.svg)
 
 
 
