@@ -1,9 +1,9 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   push:
     branches:
-      - main  # ou master, dependendo da sua branch principal
+      - main  # Substitua 'main' pela sua branch principal, se for diferente
   workflow_dispatch:
 
 jobs:
@@ -17,26 +17,25 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'  # Se necessário, ajuste a versão do Python
+          python-version: '3.x'  # Ajuste a versão do Python conforme necessário
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install numpy  # Exemplo de dependência necessária para o script
-          
+
       - name: Generate Snake
         uses: Platane/snk@master
-        id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: 'Cristina-Silva15'  # Seu nome de usuário GitHub
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Commit and Push Snake Animation
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "Cristina-Silva15"
+          git config --global user.email "165852715+Cristina-Silva15@users.noreply.github.com"  # Substitua pelo seu e-mail GitHub
           git add dist/github-contribution-grid-snake.svg
           git commit -m "Generated snake animation"
           git push
