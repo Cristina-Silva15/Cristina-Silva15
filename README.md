@@ -25,7 +25,7 @@ Cristina-Silva15/Cristina-Silva15 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-![snake gif](https://github.com/Cristina-Silva15/Cristina-Silva15/blob/output/github-contribution-grid-snake.svg)
+![ Animação de cobra ]( https://github.com/Cristina-Silva15/Cristina-Silva15/blob/output/github-contribution-grid-snake.svg)
 
 
 
