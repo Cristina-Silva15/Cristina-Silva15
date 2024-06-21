@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou a Cristina
 - 🎓 Estou cursando Bacharelado em Tecnologia da Informação
-- 🌱 Estou aprendendo Html e Css
+- 🌱 Estou aprendendo Html, Css e JavaScript
 - 😄 Pronouns: Ela/Dela
 
 ##
