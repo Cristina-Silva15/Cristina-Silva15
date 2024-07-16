@@ -12,22 +12,24 @@
     <img width="380" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristina-Silva15&layout=compact&langs_count=8&card_width=320&theme=neon&locale=pt-br" />
   </a>
 </div>
+<br>
 
-## 
-<h3>Habilidades:</h3>
+## Habilidades
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Html](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=orange&labelColor=0D1117)&nbsp;
 
+<br>
 
-## 
 
-<h3>Ferramentas:</h3>
 
+## Ferramentas
 ![visualStudio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+<br>
 
-##
 
 
 
