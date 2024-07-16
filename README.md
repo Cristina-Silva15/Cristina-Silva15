@@ -16,22 +16,19 @@
 
 ## Habilidades
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Html](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=orange&labelColor=0D1117)&nbsp;
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js&perline=15" />
+</a>
 
 <br>
-
-
 
 ## Ferramentas
-![visualStudio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-<br>
 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github&perline=15" />
+  </a>
 
-
+### 
 
 <!---
 Cristina-Silva15/Cristina-Silva15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
