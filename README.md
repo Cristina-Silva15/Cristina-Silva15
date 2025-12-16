@@ -31,8 +31,8 @@
 
 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
-
+  <i class="devicon-aarch64-plain "></i>
+          
 
 ### 
 
