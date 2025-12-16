@@ -1,6 +1,7 @@
 - 👋 Olá, eu sou a Cristina
-- 🎓 Estou cursando Bacharelado em Tecnologia da Informação
-- 🌱 Estou aprendendo Html, Css e JavaScript
+- 🎓 Sou formada em Bacharelado em Tecnologia da Informação
+- 🌱 Tenho um breve conhecimento em Html, Css e JavaScript
+- 🌱Estou aprendendo sobre Cybersegurança. 
 - 😄 Pronouns: Ela/Dela
 
 ##
@@ -25,7 +26,7 @@
 ## Ferramentas
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github&perline=15" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,kalilinux&perline=15" />
   </a>
 
 ### 
