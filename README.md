@@ -29,10 +29,6 @@
     <img src="https://skillicons.dev/icons?i=vscode,git,github,kali,medusa&perline=15" />
 </a>
                     
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kali&theme=dark&perline=15" alt="My Skills" />
-</a>
-
 
 ### 
 
