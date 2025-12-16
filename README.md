@@ -26,8 +26,13 @@
 ## Ferramentas
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,KaliLinux&perline=15" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github&perline=15" />
   </a>
+
+
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+
 
 ### 
 
