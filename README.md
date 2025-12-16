@@ -27,7 +27,7 @@
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,github&perline=15" />
-  </a>
+
 
 
 
@@ -58,7 +58,7 @@
 </clipPath>
 </defs>
 </svg>
-
+</a>
                     
 
 ### 
