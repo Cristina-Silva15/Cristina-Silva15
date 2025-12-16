@@ -26,7 +26,7 @@
 ## Ferramentas
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github&perline=15" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,kali,medusa&perline=15" />
 </a>
                     
 <a href="https://skillicons.dev">
